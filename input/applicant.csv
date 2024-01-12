@@ -1,0 +1,55 @@
+id,age,gender,race,marital_status,education,yrs_of_sales experience,persuasion_skills,work_life,culture_fit,extraversion,conscientiousness,emotion_stability,agreeable,openness,cognitive_ability,structured_interview,sales_skills
+1,33,Female,NW,Y,Post-secondary degree,6.7,3,1,4,3,3,2,2,4,2,5,1
+2,28,Female,NW,Y,Post-secondary degree,6.6,1,2,4,3,3,2,1,3,3,1,3
+3,32,Female,NW,Y,Some college,8.1,2,1,2,1,2,2,2,3,1,2,3
+4,35,Female,NW,N,Post-secondary degree,4.5,1,1,4,2,2,2,1,3,3,1,2
+5,34,Female,NW,Y,Post-secondary degree,6.8,3,1,3,5,3,3,3,4,2,5,2
+6,36,Female,NW,Y,Some college,7.2,2,1,5,2,1,2,3,3,2,5,2
+9,27,Female,NW,N,High school diploma or equivalent,7.5,2,1,4,3,3,1,1,4,3,2,2
+11,35,Female,NW,N,High school diploma or equivalent,7.8,3,1,3,4,3,1,1,5,3,2,2
+12,42,Female,NW,Y,Some college,9.5,1,1,5,2,2,3,1,3,2,2,3
+13,39,Female,NW,Y,Some college,6.9,2,1,3,1,3,4,2,4,1,2,3
+14,35,Female,NW,N,Post-secondary degree,7.2,1,1,5,4,3,1,1,4,3,1,1
+16,27,Female,NW,Y,Some high school,6.2,3,1,3,1,2,2,2,3,5,1,1
+17,28,Female,NW,Y,Post-secondary degree,6.3,1,1,1,3,2,4,1,2,2,1,2
+19,58,Female,NW,N,High school diploma or equivalent,8,2,1,4,2,1,1,2,4,3,1,2
+20,35,Female,NW,N,Some high school,3.4,1,1,4,2,3,2,1,3,4,4,3
+21,26,Female,NW,N,High school diploma or equivalent,5.3,2,1,3,2,2,1,1,3,2,4,1
+23,31,Female,NW,N,Some high school,8.4,1,1,4,3,3,2,1,2,5,1,1
+24,28,Female,NW,Y,Some college,4.6,1,1,5,4,1,3,1,2,1,2,1
+25,23,Female,NW,N,Some college,4.8,3,1,4,3,3,1,4,2,1,1,2
+26,36,Female,NW,Y,High school diploma or equivalent,7,2,1,4,3,3,4,1,4,4,5,1
+27,30,Female,NW,Y,High school diploma or equivalent,6.4,2,1,2,3,3,3,2,3,2,2,2
+29,35,Female,NW,Y,High school diploma or equivalent,5,3,1,3,2,3,3,2,4,1,1,3
+30,30,Female,NW,N,Some college,7.6,2,1,3,2,2,1,1,4,3,1,1
+31,47,Female,NW,Y,Post-secondary degree,8.7,2,1,2,3,3,4,2,3,1,1,3
+32,49,Female,NW,N,High school diploma or equivalent,10.1,2,1,4,3,3,1,2,2,3,2,3
+34,34,Female,NW,Y,Some high school,4.5,3,1,5,2,3,3,2,4,2,3,2
+35,25,Female,NW,Y,Post-secondary degree,6.1,1,1,4,2,3,3,2,2,2,2,3
+38,31,Female,NW,N,Some high school,7,3,1,4,4,3,2,3,3,4,2,2
+39,21,Female,NW,Y,Some college,2.4,1,1,3,1,2,2,1,4,2,1,3
+41,27,Female,NW,N,Some high school,4.9,1,3,4,2,4,1,2,1,5,3,2
+42,45,Male,NW,N,High school diploma or equivalent,10.9,3,2,2,5,2,2,1,4,3,1,3
+43,31,Female,NW,Y,High school diploma or equivalent,4.4,2,1,3,4,1,3,1,5,1,1,2
+44,28,Male,NW,Y,High school diploma or equivalent,5.2,2,2,5,5,1,3,2,2,3,2,3
+45,24,Female,NW,Y,Some high school,5.2,1,2,5,2,3,3,2,2,1,2,3
+46,47,Female,NW,Y,High school diploma or equivalent,8.8,2,1,3,2,2,3,2,4,2,2,3
+49,44,Female,NW,N,Some high school,7.6,1,1,3,3,1,1,2,2,2,3,3
+50,21,Female,NW,N,High school diploma or equivalent,5.4,1,1,3,3,2,1,1,3,3,1,2
+51,39,Male,NW,N,Some high school,8.9,3,5,4,3,3,2,3,2,3,1,2
+52,39,Male,NW,N,High school diploma or equivalent,8.9,2,1,3,4,3,2,2,1,3,2,3
+53,28,Male,NW,N,High school diploma or equivalent,2.7,1,1,2,2,2,2,2,1,1,5,3
+54,36,Male,NW,Y,Some high school,3.1,1,1,3,1,3,4,2,1,1,3,3
+55,31,Male,NW,Y,Some college,6.1,2,3,4,1,3,4,2,2,1,1,3
+56,28,Male,NW,N,High school diploma or equivalent,4.7,2,2,5,3,2,2,1,3,2,1,3
+57,23,Male,NW,Y,Post-secondary degree,3.6,2,1,3,2,2,3,1,4,1,1,3
+58,27,Male,NW,N,Some high school,5.2,2,3,3,3,3,2,1,3,4,1,1
+60,26,Male,NW,Y,High school diploma or equivalent,4.5,2,1,3,2,3,4,3,1,4,3,3
+61,44,Male,NW,Y,Some college,8.1,2,2,4,4,2,4,1,4,4,1,3
+62,34,Male,NW,Y,Some high school,5.8,3,2,4,4,2,4,4,2,5,3,1
+63,21,Male,NW,Y,High school diploma or equivalent,4.1,3,2,2,3,1,2,2,4,1,1,2
+81,34,Male,W,N,Post-secondary degree,7.9,2,3,4,5,1,1,5,4,5,2,3
+82,31,Female,NW,Y,High school diploma or equivalent,8.2,2,2,2,5,3,3,2,1,5,3,3
+103,32,Female,W,Y,Post-secondary degree,11.6,2,1,1,5,4,3,1,3,3,4,3
+150,40,Male,W,Y,Some college,12.5,3,2,3,5,4,3,1,3,3,5,2
+176,22,Male,W,N,Some college,5.9,4,5,3,2,3,2,3,4,3,2,2
