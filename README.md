@@ -1,5 +1,7 @@
 # HR Analytics - CanadaRetail:
 
+Business Analytics Immersion Week
+
 ## Introduction:
 Since the retail market in Canada has become increasingly competitive, CanadaRetail has been struggling to attract and retain top talent to help them execute their strategic objectives and believe it is time for them to revise their **human capital strategies** to align with their business strategies. They see an opportunity to create a sustainable competitive advantage through:
 1. developing a positive employer brand, and
